@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">10119208Latihan2</string>
+    <string name="username">Username</string>
+    <string name="pass">Password</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone Number</string>
+    <string name="repass">Retype Password</string>
+    <string name="home">Home Address</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="person">Personal</string>
+    <string name="orga">Organization</string>
+    <string name="loc">Default Location</string>
+    <string name="code">enter verification code here...</string>
+
+    <string-array name="goldar">
+        <item>Bloody Type</item>
+        <item>A</item>
+        <item>B</item>
+        <item>O</item>
+        <item>AB</item>
+    </string-array>
+
+    <string-array name="reshus">
+        <item>Reshus</item>
+        <item>Positive</item>
+        <item>Negative</item>
+    </string-array>
+
+    <string-array name="job">
+        <item>Job</item>
+        <item>Doctor</item>
+        <item>Teacher</item>
+    </string-array>
+</resources>

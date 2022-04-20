@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="tombolbiru" parent="Widget.AppCompat.ActionButton">
+        <item name="textAllCaps">true</item>
+        <item name="android:background">@drawable/btn_brdr</item>
+    </style>
+
+    <style name="tombolputih" parent="Widget.AppCompat.ActionButton">
+        <item name="textAllCaps">true</item>
+        <item name="android:background">@drawable/btn_brdr2</item>
+    </style>
+
+</resources>
